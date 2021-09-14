@@ -1,0 +1,7 @@
+C:\Users\MLB\source\repos\Calculadora\Calculadora\bin\Debug\Calculadora.exe.config
+C:\Users\MLB\source\repos\Calculadora\Calculadora\bin\Debug\Calculadora.exe
+C:\Users\MLB\source\repos\Calculadora\Calculadora\bin\Debug\Calculadora.pdb
+C:\Users\MLB\source\repos\Calculadora\Calculadora\obj\Debug\Calculadora.csproj.AssemblyReference.cache
+C:\Users\MLB\source\repos\Calculadora\Calculadora\obj\Debug\Calculadora.csproj.CoreCompileInputs.cache
+C:\Users\MLB\source\repos\Calculadora\Calculadora\obj\Debug\Calculadora.exe
+C:\Users\MLB\source\repos\Calculadora\Calculadora\obj\Debug\Calculadora.pdb
